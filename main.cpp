@@ -1,3 +1,10 @@
+/**
+ * @file main.cpp
+ * @brief the main function were you input the file name and it calls the other two functions.
+ * @Author Collin McGee
+ * @date 12/3/2020
+ */
+
 #include <cstdlib>
 #include <cctype>
 #include <stdio.h>

@@ -1,4 +1,11 @@
-#pragma once
+/**
+ * @file countChar.h
+ * @brief counts the number of characters in the file.
+ * @param string pName
+ * @Author Collin McGee
+ * @date 12/3/2020
+ */
+
 #include <string>
 #include <fstream>
 #include <iostream>

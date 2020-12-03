@@ -1,4 +1,11 @@
-#pragma once
+/**
+ * @file countLine.h
+ * @brief counts the number of lines in the file.
+ * @param string pName
+ * @Author Collin McGee
+ * @date 12/3/2020
+ */
+
 #include <string>
 #include <fstream>
 #include <iostream>
